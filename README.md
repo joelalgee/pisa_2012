@@ -55,3 +55,7 @@ Students with both mother and father at home had, on average, a more positive mi
 Students with siblings at home had, on average, a more positive mindset than those without. There was no difference in proficiencies in mathematics, science and reading.
 
 Students born in the first third of the academic year had, on average, a more positive mindset than those born in the last third. They also seemed, on average, more proficient in mathematics, science and reading.
+
+## Credits
+
+This project was provided by [Udacity](https://www.udacity.com) as part of their [Data Analyst nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). Data were provided by [PISA](https://www.oecd.org/pisa/), the OECD's Programme for International Student Assessment.
