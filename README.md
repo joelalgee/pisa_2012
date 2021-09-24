@@ -26,7 +26,7 @@ Therefore, while a thorough exploration would need to include tests for statisti
 
 ## Instructions
 
-Store all files in the same folder, and use Jupyter Notebook to open pisa_2012_exploration.ipynb
+Store all files in the same folder, download and unzip data to this folder, and use Jupyter Notebook to open pisa_2012_exploration.ipynb
 
 ## Files
 
